@@ -1,0 +1,33 @@
+.Headingdata {
+  background-color: chartreuse;
+  text-align: center;
+  color: blue;
+  width: 200px;
+}
+
+.Headingdata1 {
+  background-color: rgb(213, 38, 116);
+  text-align: center;
+  color: rgb(31, 191, 114);
+}
+.demo {
+  display: grid;
+
+  grid-template-columns: 200px 200px;
+
+  background-color: rgb(230, 235, 225);
+}
+.left {
+  color: blue;
+  font-size: 30px;
+}
+.right {
+  color: blue;
+  font-size: 30px;
+}
+.rightagain {
+  margin-left: 50%;
+}
+.leftagain {
+  margin-left: 50%;
+}

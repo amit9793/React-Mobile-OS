@@ -1,0 +1,12 @@
+.demo1 {
+  background-color: blue;
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px;
+  grid-template-rows: 100px 100px;
+  color: aliceblue;
+}
+
+.demo2 {
+  height: 100px;
+  background-color: black;
+}
